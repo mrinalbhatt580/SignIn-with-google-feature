@@ -1,0 +1,6 @@
+# Ignore environment variables and sensitive information
+node_modules/
+.env
+client_secret_414390946059-ba8pogpbjopd7trfhpmp84si4c0lhu2h.apps.googleusercontent.com.json
+
+
